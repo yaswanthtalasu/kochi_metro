@@ -21,3 +21,5 @@ const tabs = [
 +  { id: 'branding' as TabType, label: 'Branding Contracts', icon: Award },
 +  { id: 'service-bay' as TabType, label: 'Service vs Bay', icon: Train }
 ];
+
+export default tabs
